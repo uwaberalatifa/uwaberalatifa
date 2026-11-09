@@ -23,7 +23,7 @@ Currently pursuing BSc Computer Science at University of Rwanda, College of Scie
 
 ### 📫 Connect with me
 - LinkedIn: [linkedin.com/in/latifa-uwabera-6b4a63349](https://www.linkedin.com/in/latifa-uwabera-6b4a63349/)
-- Email: latifauwabera70@gmail.com##
+- Email: latifauwabera70@gmail.com
 
 <!--
 **uwaberalatifa/uwaberalatifa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
