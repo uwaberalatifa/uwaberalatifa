@@ -2,8 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Latifa+Uwabera;I'm+a+Full-Stack+Developer+%26+Security+Analyst;React+%7C+IoT+%7C+Cybersecurity)](https://github.com/uwaberalatifa)
 
-**Latifa Uwabera**: Full-Stack Developer & Security Analyst based in Kigali, Rwanda.  
-Currently pursuing BSc Computer Science (Networking & Security) at University of Rwanda – College of Science and Technology.
 
 ### Some of tools I frequently use:
 
