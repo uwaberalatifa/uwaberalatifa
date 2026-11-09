@@ -1,7 +1,7 @@
 # Hi, I'm Latifa Uwabera 👋
 Full-Stack Developer & Security Analyst based in Kigali, Rwanda.
 
-Currently pursuing BSc Computer Science at University of Rwanda – College of Science and Technology.
+Currently pursuing BSc Computer Science at University of Rwanda, College of Science and Technology.
 
 ### 🔭 Currently working on
 - Full-stack web applications (React + modern JavaScript)
