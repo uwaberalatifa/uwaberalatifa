@@ -1,54 +1,37 @@
-# Hi, I'm Latifa Uwabera 👋
+![Contribution Snake](https://raw.githubusercontent.com/uwaberalatifa/uwaberalatifa/output/github-contribution-grid-snake-dark.svg)
 
-**Full-Stack Developer & Security Analyst** based in Kigali, Rwanda  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Latifa+Uwabera;Full-Stack+Developer+%26+Security+Analyst;React+%7C+IoT+%7C+Cybersecurity)](https://github.com/uwaberalatifa)
 
-Currently pursuing **BSc Computer Science (Networking & Security)** at  
-University of Rwanda – College of Science and Technology (UR-CST)
+**Latifa Uwabera**: Full-Stack Developer & Security Analyst based in Kigali, Rwanda.  
+Currently pursuing BSc Computer Science (Networking & Security) at University of Rwanda – College of Science and Technology.
 
----
+### Some of tools I frequently use:
 
-### 🔭 Currently Working On
-- Building responsive full-stack web applications with **React** & modern JavaScript  
-- Exploring **IoT** systems and secure system integration  
-- Strengthening skills in **Cybersecurity** and Web Application Security  
-
----
-
-### 🛠️ Tech Stack
-
-**Frontend**  
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-
-**Other Skills**  
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Networking](https://img.shields.io/badge/Networking-0A66C2?style=flat&logo=cisco&logoColor=white)
-![IoT](https://img.shields.io/badge/IoT-6B7280?style=flat)
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-000000?style=flat&logo=let's-encrypt&logoColor=white)
-
-**Soft Skills**  
-Workshop Facilitation • Public Speaking • Team Leadership • Bilingual (English & Kinyarwanda)
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/>
+</p>
 
 ---
 
-### 📜 Certifications
+### Currently Working On
+- Full-stack web applications (React + modern JavaScript)
+- IoT + secure system integration
+- Cybersecurity fundamentals & Web Application Security
 
-- **Code2Connect Her Fellowship III** – Cybersecurity (SOLVIT Africa / Mastercard Foundation) – 2026  
-- **Web Application Security** – SOLVIT Africa – 2026  
-- **Linux System Power-User** – SOLVIT Africa – 2026  
-- **DevBreak** – Software Development & IoT (SANTECH Ltd) – 2025  
-- **HHTN Facilitator** – Healing & Reconciliation / Peacebuilding  
-- **Umutoza w’Intore** – Leadership & Civic Engagement  
+### Certifications
+- Code2Connect Her Fellowship III – Cybersecurity (SOLVIT Africa) – 2026
+- Web Application Security – SOLVIT Africa – 2026
+- Linux System Power-User – SOLVIT Africa – 2026
+- DevBreak – Software Development & IoT (SANTECH Ltd) – 2025
+- HHTN Facilitator – Healing & Reconciliation
+- Umutoza w’Intore – Leadership & Civic Engagement
 
----
-
-### 📫 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/latifa-uwabera-6b4a63349/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:latifauwabera70@gmail.com)
-
----
-
-⭐️ From [uwaberalatifa](https://github.com/uwaberalatifa)
+### Connect with me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/latifa-uwabera-6b4a63349/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:latifauwabera70@gmail.com)
