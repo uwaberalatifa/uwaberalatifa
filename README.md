@@ -15,8 +15,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/>
 </p>
 
----
-
 ### Currently Working On
 - Full-stack web applications (React + modern JavaScript)
 - IoT + secure system integration
